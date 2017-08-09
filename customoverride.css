@@ -1,5 +1,5 @@
 .btn-group-create-account a{
-  	display:none ;
+  	visibility:hidden ;
 }
 
 .field-first-name {
