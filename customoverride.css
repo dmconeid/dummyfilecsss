@@ -2,14 +2,13 @@
 
 .logo.logo-primary {
     background-image: url('https://stwcs.disneymovieclub.go.com/static/Acquisition/Redesign/Landing/dmcdisney.png') !important;
-   height: 63px;
+    height: 80px;
     background-repeat: no-repeat;
     background-size: 100%;
-    width: 74%;
-    margin: 20px auto;
+    width: 100%;
+   
 }
 
-
-.btn-group-create-account {
+.workflow-login > .section-primary > .btn-group-create-account {
     display:none;
 }
