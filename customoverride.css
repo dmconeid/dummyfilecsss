@@ -8,3 +8,8 @@
     width: 74%;
     margin: 20px auto;
 }
+
+
+.btn-group-create-account {
+    display:none;
+}
