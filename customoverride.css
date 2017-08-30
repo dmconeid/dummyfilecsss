@@ -9,6 +9,6 @@
    
 }
 
-.workflow.workflow-new.workflow-login   .section.section-primary  .btn-group-create-account {
+.workflow.workflow-new.workflow-login   .section.section-primary  > .btn-group-create-account {
     display:none;
 }
