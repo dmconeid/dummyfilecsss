@@ -8,9 +8,6 @@
     width: 100%;
    
 }
-.btn-group-create-account {
-    display:none;
-}
 
 .workflow.workflow-new.workflow-login   .section.section-primary  .btn-group-create-account {
     display:none;
