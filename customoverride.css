@@ -8,6 +8,6 @@
     width: 100%;
    
 }
-.workflow.workflow-new.workflow-login  > .section.section-primary > div.btn-group-create-account {
+.workflow.workflow-new.workflow-login   .section.section-primary  .btn-group-create-account {
     display:none;
 }
