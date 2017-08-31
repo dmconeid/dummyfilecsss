@@ -1,5 +1,5 @@
 
-
+/*
 .logo.logo-primary {
     background-image: url('https://stwcs.disneymovieclub.go.com/static/Acquisition/Redesign/Landing/dmclogoblack.png') !important;
     height: 80px;
@@ -7,7 +7,7 @@
     background-size: 100%;
     width: 100%;
    
-}
+}*/
 
 .workflow.workflow-new.workflow-login   .section.section-primary  > .btn-group-create-account {
     display:none;
